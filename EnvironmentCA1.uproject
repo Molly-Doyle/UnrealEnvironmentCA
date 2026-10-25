@@ -23,5 +23,9 @@
 			"Name": "Water",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"VisionOS",
+		"Windows"
 	]
 }
